@@ -1,0 +1,12 @@
+.product {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100vh;
+}
+.imgSide img {
+  height: 600px;
+}
+.infoSide {
+  width: 50vw;
+}
